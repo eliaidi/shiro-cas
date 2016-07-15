@@ -1,2 +1,2 @@
-# cas_test
-spring+shiro+cas单点登录测试项目
+# shiro+cas
+shiro集成cas实现的单点登录demo
